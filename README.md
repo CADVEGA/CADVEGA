@@ -1,9 +1,10 @@
 ![Hola  Me llamo Carlos (1)](https://user-images.githubusercontent.com/78902328/176889140-bd235512-bd50-4985-a00f-ec2807adae8a.jpg)
 
-
+<p align="center">
+Me encanta desarollar y diseñar páginas web. I'm also a bilingual graphic designer and NFT artist!
+</p>
 
 <div align="center">
-Me encanta desarollar y diseñar páginas web. I'm also a bilingual graphic designer and NFT artist!
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="30" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="30" />  
